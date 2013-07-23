@@ -3,12 +3,12 @@ layout: page
 title: Curriculumn Vitae
 ---
 
-# Yihui Xie
+# SHEN LU
 
 ## Contact Information
 
-2215 Snedecor Hall, Department of Statistics, Iowa State University, Ames, 50011, IA
-Email: xie@yihui.name; Tel: (+1) 515-203-2465 Homepage: <http://yihui.name/>
+Iowa State University, Ames, 50011, IA
+Email: ls2013@iastate.edu or 1652720583@qq.com; Tel: (+1) 515-708-5689 Homepage: <http://lushen.github.com/>
 
 ## Research Interest
 
