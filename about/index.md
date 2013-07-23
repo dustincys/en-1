@@ -4,16 +4,13 @@ title: About
 comments: yes
 ---
 
-You can know more about me in the [homepage](/) and my [vitae](../vitae/). This blog site, as its name indicates, is about statistics, R, graphics and fun. It is particularly focused on R. I often update my old posts (even after years) to correct errors and remove outdated information, so please do not take everything for granted.
+You have known a little bit about me in the [homepage](/) and my [vitae](../vitae/). This is a blog site. It is particularly focused on R. I often update my old posts (even after years) to correct errors and remove outdated information, so please do not take everything for granted.
+Acknowledge
+-----
 
-This site was created with [Jekyll](https://github.com/mojombo/jekyll) and the template was derived from the site [setImpl](http://lhzhang.com/) by Linghua Zhang; the homepage was based on the design of [Tao Zhang](http://ztpala.com/) (thanks a lot, guys!). You may need a decent web browser to view this site (such as Firefox or Chrome), otherwise the layout can be a mess and the fonts can look ugly. You can navigate to the last post by the left-arrow key (`<-`) or next post by right-arrow (`->`), or equivalently keys `J` and `K`.
+This site was created with [Jekyll](https://github.com/mojombo/jekyll) and the template was derived from the site [Yihui Xie](http://yihui.name) by Yihui Xie; the homepage was based on the design of [Tengfei Yin](http://www.tengfei.name) (thanks a lot, guys!).  
 
-I like contributing to open source software like:
-
-- [R](http://www.r-project.org/): I'm the author of a few R packages (see [vitae](../vitae/))
-- [LyX](http://www.lyx.org/): I maintain the Sweave and knitr modules in LyX with Jean-Marc Lasgouttes
-
-I have an interview on [The Setup](http://yihui.xie.usesthis.com) where you will learn more about me on the software side.
-
-You can find me on [GitHub](https://github.com/yihui/) or Twitter [@xieyihui](http://twitter.com/xieyihui) or [Google+](https://plus.google.com/u/0/109653178371807724268/posts). Subscribe to the RSS feed of [blog posts](../feed/) or [all comments](http://yihui.disqus.com/latest.rss) to stay tuned.
+Contact
+-----
+You can find me on [GitHub](https://github.com/lushen) or RenRen(http://www.renren.com/351544831) and freely contact me by my email:ls2013@iastate.edu or phone:(515)7085689.  
 
