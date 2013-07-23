@@ -12,5 +12,5 @@ This site was created with [Jekyll](https://github.com/mojombo/jekyll) and the t
 
 Contact
 -----
-You can find me on [GitHub](https://github.com/lushen) or RenRen(http://www.renren.com/351544831) and freely contact me by my email:ls2013@iastate.edu or phone:(515)7085689.  
+You can find me on [GitHub](https://github.com/lushen) or [RenRen](http://www.renren.com/351544831) and freely contact me by my email:ls2013@iastate.edu or phone:(515)7085689.  
 
