@@ -9,7 +9,4 @@ You have known a little bit about me in the [homepage](/) and my [vitae](../vita
 
 This site was created with [Jekyll](https://github.com/mojombo/jekyll) and the template was derived from the site [Yihui Xie](http://yihui.name) by Yihui Xie; the homepage was based on the design of [Tengfei Yin](http://www.tengfei.name) (thanks a lot, guys!).  
 
-### Contact
------
-You can find me on [GitHub](https://github.com/lushen) or [RenRen](http://www.renren.com/351544831) and freely contact me by my email:ls2013@iastate.edu or phone:(515)7085689.  
 
