@@ -1,5 +1,5 @@
 ---
-title: Statistics, Biology, Computer Science and Fun
+title: Biology + Statistics + Computer Science = Fun
 layout: page
 ---
 
