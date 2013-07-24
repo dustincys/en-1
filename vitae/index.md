@@ -7,8 +7,9 @@ title: Curriculumn Vitae
 
 ## Contact Information
 
-Iowa State University, Ames, 50011, IA
+Iowa State University, Ames, 50011, IA  
 Email: ls2013@iastate.edu or 1652720583@qq.com; Tel: (+1) 515-708-5689 Homepage: <http://lushen.github.com/>
+You can also find me on [GitHub](https://github.com/lushen) or [RenRen](http://www.renren.com/351544831).  
 
 ## Research Interest
 
