@@ -17,9 +17,8 @@ Statistical computing and graphics / data visualization
 
 ## Education Background
 
-- 2009 ~ Present, PhD student in the Department of Statistics, Iowa State University
-- 2006 ~ 2009, Master of statistics, School of Statistics, Renmin University of China
-- 2002 ~ 2006, Bachelor of Economics, School of Statistics, Renmin University of China
+- 2013 ~ Present, Undergraduate in the College of Liberal Arts and Sciences, Iowa State University, Major: Bioinformatics and Computational Biology
+- 2010 ~ 2012, Undergraduate in the College of Life Science, Qingdao Agricultural University, Major: Biological Science
 
 ## Honors & Awards
 
@@ -35,21 +34,9 @@ Statistical computing and graphics / data visualization
 
 ## Professional Experience
 
-### Internship
-
-1. Summer 2012, [AT&T Labs Research](http://research.att.com), Florham, NJ (mentor: [Simon Urbanek](http://urbanek.info))
-1. Summer 2013, [Fred Hutchinson Cancer Research Center](http://www.fhcrc.org) (mentor: [Raphael Gottardo](http://www.rglab.org))
-
 ### Work Experience
 
-Sep 2004 - present
-
-Duties in Associations & Centers:
-
-- Data Sharing and Reproducibility Committee, American Statistical Association (2013)
-- Column editor of the [ICSA bulletin](http://icsa.org/bulletin/) for its R column (2012 - 2013)
-- Webmaster of the Center for Applied Statistics, Renmin University of China (2004 - 2009)
-- Vice-chairman of the "Great Expectation Society" (a student association, Apr 2005 - Jul 2006)
+1. Summer 2013, Schnedier's lab (sponsor: [Schnedier]() and mentor: []())
 
 
 
