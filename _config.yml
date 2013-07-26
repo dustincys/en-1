@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://lushen.github.com/en
+url: http://www.lushen.name/en
 author: SHEN LU
 pygments: true
 
