@@ -1,5 +1,5 @@
 ---
-title: Biology + Statistics + Computer Science = Fun
+title: Biology + Statistics + Computer Science = Bioinformatics and Computational Biology
 layout: page
 ---
 
