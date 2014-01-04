@@ -58,7 +58,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 ### Work Experience
 
 1. Fall Semester 2012, Yuxi Zhang's lab (mentor: [Yuxi Zhang]())
-2. Summer 2013, Schnedier's lab (sponsor: [Schnedier]() and mentor: []())
+2. Summer 2013, Schnedier's lab (sponsor: [Schnedier](http://www.gdcb.iastate.edu/News/news_item_sschneidercarver.shtml) and mentor: [Hsien-Chao Chou](http://www.bcb.iastate.edu/students/studentpics.html#chou_h))
 
 ### Computer Skill
 
