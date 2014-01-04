@@ -13,7 +13,7 @@ You can also find me on [GitHub](https://github.com/lushen) or [RenRen](http://w
 
 ## Research Interest
 
-Statistical computing and graphics / data visualization
+Next Generation Sequencing & RNA-seq Data Analysis
 
 ## Education Background
 
@@ -22,17 +22,52 @@ Statistical computing and graphics / data visualization
 
 ## Honors & Awards
 
-- Excellent graduate scholarship, Renmin University of China, 2007
-- Successful Participant, Mathematical Contest in Modeling (America), 2006 ([paper](https://github.com/downloads/yihui/yihui.github.com/MCM-2006-paper-Yihui-Xie.pdf); [certificate](http://i.imgur.com/c3soC.jpg "Certificate of Mathematical Contest in Modelling (America)"))
-- Excellent graduate of Renmin University of China, 2006
-- "Excellent Worker in Student Media" of Renmin University of China, 2006 (for hosting the website of statistics discussions in <http://cos.name>)
-- Scholarship for outstanding learning, Renmin University of China, 2005
+### 2011
+
+- The First Scholoarship for Excellent Student
+- The Honoray Title "Excellent Student" in Academic Performance, "the Advanced Individual" in the Poetry-reading Contest
+
+### 2010
+
+- The Honorary Title "Advanced Office Skill" in Computer Information Technology Test
+- The Advanced Operation Test of Office Software Application (Window System) of CITT (National Occupational Qualification Level 3)
+
+### 2009
+
+- The Excellent Prize the 7th ITT Cup National Water Science and Technology Contest for Middle School Students jointly held by the Publicity and Education Center of State Environmental Protection Administration and [ITT Corporation](http://www.itt.com/) 
+- The Second Prize of the 24th Qingdao Science and Technology Innovation Contest for Youth
+
+## Patents
+
+### [Utility Model Patents](http://www.sipo.gov.cn/zljs) Search: 陆燊
+
+- 2008 The Water-saving Toilet Bowl
+- 2009 The New-type of Water-saving Toilet Bowl
+- 2009 The New-type Cap of Ink Bottle
+- 2009 The Automatic Befouled-water-reuse Toilet Bowl
+- 2009 The Befouled-water-reuse Toilet Bowl
+
+### [National Invention Patents] (http://www.sipo.gov.cn/zljs) Search: 陆燊
+
+- 2010 T-connector of Drain-pipe
+- 2012 Automatic Fish Feeder in Fish Bowl
 
 ## Professional Experience
 
 ### Work Experience
 
-1. Summer 2013, Schnedier's lab (sponsor: [Schnedier]() and mentor: []())
+1. Fall Semester 2012, Yuxi Zhang's lab (mentor: [Yuxi Zhang]())
+2. Summer 2013, Schnedier's lab (sponsor: [Schnedier]() and mentor: []())
 
+### Computer Skill
 
+- Operation System: WinXP&7, Linux(Ubuntu), Unix(Mac)
+- Programming Language: Perl, Java, R, C/C++, Python
+- SQL language: MySQL, SQLite
+- Others: Micosoft Office, Bioinformatics Software (TopHat, Bowtie, Cufflinks, etc.)
+
+## Self Assessment
+
+Habbies: Dance(Popining), Basketball, Billiard
+Character: Persistent, creative, talkative, passionate, etc.
 
