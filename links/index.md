@@ -13,6 +13,7 @@ comments: yes
 ## R Language
 
 - [The R Project](http://www.r-project.org/)
+- [R Source](http://cran.r-project.org/sources.html)
 - [Bioconductor](http://www.bioconductor.org/)
 
 ## Perl
