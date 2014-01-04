@@ -47,7 +47,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 - 2009 The Automatic Befouled-water-reuse Toilet Bowl
 - 2009 The Befouled-water-reuse Toilet Bowl
 
-### [National Invention Patents] (http://www.sipo.gov.cn/zljs) Search: 陆燊
+### [National Invention Patents](http://www.sipo.gov.cn/zljs) Search: 陆燊
 
 - 2010 T-connector of Drain-pipe
 - 2012 Automatic Fish Feeder in Fish Bowl
