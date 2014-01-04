@@ -23,6 +23,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 
 ## Honors & Awards
 
+
 ### 2011
 
 - The First Scholoarship for Excellent Student
@@ -54,6 +55,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 - 2012 Automatic Fish Feeder in Fish Bowl
 
 ## Professional Experience
+
 
 ### Work Experience
 
