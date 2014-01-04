@@ -17,9 +17,17 @@ comments: yes
 
 ## Perl
 
-- [perl](http://www.perl.org/)
+- [perl](http://www.perl.org/): 
 - [cpan](http://www.cpan.org/modules/INSTALL.html)
 
 ## GBrowse
 - [GBrowse](http://gmod.org/wiki/GBrowse)
 
+## Wikipedia
+- [Bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics) 
+- [Caenorhabditis elegans](http://en.wikipedia.org/wiki/Caenorhabditis_elegans)(C.elegans) 
+
+## Programming Practice Website
+- [南阳理工学院ACM](http://acm.nyist.net/JudgeOnline/problemset.php)
+- [编程爱好者](http://www.pfan.cn/acm/)
+- [RQNOJ](http://www.rqnoj.cn/problem)
