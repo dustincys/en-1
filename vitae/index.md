@@ -69,6 +69,6 @@ Next Generation Sequencing & RNA-seq Data Analysis
 
 ## Self Assessment
 
-Habbies: Dance(Popining), Basketball, Billiard
-Character: Persistent, creative, talkative, passionate, etc.
+- Habbies: Dance(Popining), Basketball, Billiard
+- Character: Persistent, creative, talkative, passionate, etc.
 
