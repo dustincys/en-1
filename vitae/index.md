@@ -26,7 +26,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 
 ### 2011
 
-- The First Scholoarship for Excellent Student
+- The First Scholoarship for Excellent Student, Qingdao Agriculture University, China.
 - The Honoray Title "Excellent Student" in Academic Performance, "the Advanced Individual" in the Poetry-reading Contest
 
 ### 2010
