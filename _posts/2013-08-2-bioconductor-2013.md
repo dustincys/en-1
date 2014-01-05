@@ -18,17 +18,16 @@ As we know, R language is a famous open source language, which have been widely 
 Firstly, you should comfirm what the R verison you have on your PC and update or upgrade your PC environment for preparing your installation of new R version. these commands are displayed blow.
 
 #### Check the Current R Version on your PC
-```
-R --version 
-```
+
+> R --version 
+
 #### Update your PC
-```
-sudo apt-get update 
-```
+
+> sudo apt-get update 
+
 #### Upgrade your PC
-```
-sudo apt-get upgrade
-```
+
+> sudo apt-get upgrade
 
 
 ### Install the Old or New R Version at Offical Website
