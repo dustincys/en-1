@@ -40,21 +40,25 @@ After checking out your PC environment, now you could install the new R version 
  ./configure
 ```
 After that
+
 ```
  make
 ```
 ![](http://i.imgur.com/EsMVc44.png)
 
 And check if it installed correctly.
+
 ```
  make check
 ```
 #### Install R Under */usr/local/bin/* 
 After that you could directly use it in the terminal
+
 ```
  sudo make install
 ```
 You could check the version if the new R version has already on your PC
+
 ```
  R --version
 ```
