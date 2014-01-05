@@ -21,11 +21,11 @@ Firstly, you should comfirm what the R verison you have on your PC and update or
 ```
 $ R --version 
 ```
-#### Update your PC
+#### Update your PC environment
 ```
 $ sudo apt-get update 
 ```
-#### Upgrade your PC
+#### Upgrade your PC environment
 ```
 $ sudo apt-get upgrade
 ```
@@ -75,6 +75,8 @@ Open **Ubuntu Software Center** and find **Rstudio** and uninstall it from your 
 ![](http://i.imgur.com/rFBcNzH.png)
 
 #### Download the New Version of Rstudio from [Rstudio](http://www.rstudio.com/ide/download/desktop) Homepage
+
+You can download the lastest **Rstudio** version from this page and install it via **Ubuntu Software Center**.
 
 ![](http://i.imgur.com/pYhLnnw.png)
 
