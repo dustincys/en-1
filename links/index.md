@@ -36,9 +36,9 @@ comments: yes
 - [ROSALIND](http://rosalind.info/problems/locations/):
 
 ## Bioinformatics
-- [生物信息学天空](http://www.bioinfosky.com/)
-- [北京大学生物信息中心](http://www.cbi.pku.edu.cn/chinese/documents/index.html)
-- [生物信息学研究论坛网](http://www.bioxxx.cn/forum.php)
-- [博耘生物](http://boyun.sh.cn/bio/index.php)
-- [生物统计家园](http://www.biostatistic.net/portal.php)
-- [云生物](http://yunbio.com/)
+- [生物信息学天空](http://www.bioinfosky.com/):
+- [北京大学生物信息中心](http://www.cbi.pku.edu.cn/chinese/documents/index.html):
+- [生物信息学研究论坛网](http://www.bioxxx.cn/forum.php):
+- [博耘生物](http://boyun.sh.cn/bio/index.php):
+- [生物统计家园](http://www.biostatistic.net/portal.php):
+- [云生物](http://yunbio.com/): The website that anwsers the questions about bioinformatics & biocompute.
