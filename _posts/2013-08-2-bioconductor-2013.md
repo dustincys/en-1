@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Install and Update R and Rstudio on Ubuntu
-categories: [R language]
-tags: [R, Configure, Programming Language, Basic Knowledge]
+categories: [programming language, ubuntu]
+tags: [r, configure, rstudio]
 ---
 
 As we know, R language is a famous open source language, which have been widely applied in biology fields due to its strong and complete functions of drawing and statistical computering ability. And Rstudio is the most popular GUI for R language. Although R is very useful in statistics and data analysis, R language is not prefect in some parts, such as, some old packages cannot be compatible with new R version. However, the common problems you will often meet at your work is that R language is hard to update on Ubuntu at once. 
