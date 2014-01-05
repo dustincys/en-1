@@ -24,4 +24,6 @@ As we know, R language is a famous open source language, which have been widely 
 ### Uninstall Rstudio on Your PC And Reinstall It on Your PC
 
 ![](http://i.imgur.com/rFBcNzH.png)
+
+
 ![](http://i.imgur.com/pYhLnnw.png)
