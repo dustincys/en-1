@@ -13,7 +13,7 @@ As we know, R language is a famous open source language, which have been widely 
 - step 2: Install the Old or New R Version at Offical Website
 - step 3: Uninstall Rstudio on Your PC And Reinstall It on Your PC
 
-### Update and Upgrade R on Your PC
+### 1. Update and Upgrade R on Your PC
 
 Firstly, you should comfirm what the R verison you have on your PC and update or upgrade your PC environment for preparing your installation of new R version. these commands are displayed blow.
 
@@ -30,7 +30,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-### Install the Old or New R Version at Offical Website
+### 2. Install the Old or New R Version at Offical Website
 After checking out your PC environment, now you could install the new R version from [R](http://cran.rstudio.com/) homepage or old R version from [R Source](http://cran.r-project.org/sources.html). And you could decompress the R source code zip file on your PC.
 
 #### Unzip the R Source Code Zip File
@@ -66,7 +66,7 @@ And you could see that
 
 ![](http://i.imgur.com/8U6lsLp.png)
 
-### Uninstall Rstudio on Your PC And Reinstall It on Your PC
+### 3. Uninstall Rstudio on Your PC And Reinstall It on Your PC
 
 #### Uninstall Old Rstudio from Your PC
 
