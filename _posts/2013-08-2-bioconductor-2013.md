@@ -17,7 +17,7 @@ As we know, R language is a famous open source language, which have been widely 
 
 Firstly, you should comfirm what the R verison you have on your PC and update or upgrade your PC environment for preparing your installation of new R version. these commands are displayed blow.
 
-#### Check the Current R Version on your PC
+#### Check the Current R Version on Your PC
 ```
  R --version 
 ```
