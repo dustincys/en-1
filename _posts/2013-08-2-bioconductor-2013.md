@@ -74,12 +74,12 @@ Open **Ubuntu Software Center** and find **Rstudio** and uninstall it from your 
 
 ![](http://i.imgur.com/rFBcNzH.png)
 
-#### Download the New Version of Rstudio from [Rstudio](http://www.rstudio.com/ide/download/desktop) Homepage
+#### Download the New Version of Rstudio
 
-You can download the lastest **Rstudio** version from this page and install it via **Ubuntu Software Center**.
+You can download the lastest **Rstudio** version from this [page](http://www.rstudio.com/ide/download/desktop).
 
 ![](http://i.imgur.com/pYhLnnw.png)
 
-After that, you could reinstall it and it will automatically change to the R version that you have installed. Fortunately, you could see below.
+After that, you could reinstall it via **Ubuntu Software Center**. and it will automatically change to the R version that you have installed. Fortunately, you could see it as below.
 
 ![](http://i.imgur.com/gM70JYv.png)
