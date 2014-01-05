@@ -12,25 +12,25 @@ comments: yes
 
 ## R Language
 
-- [The R Project](http://www.r-project.org/)
-- [R Source](http://cran.r-project.org/sources.html)
-- [Bioconductor](http://www.bioconductor.org/)
+- [The R Project](http://www.r-project.org/): The R Project for Statistical Computing
+- [R Source](http://cran.r-project.org/sources.html): Official releases of R source code are most likely what you want if you are looking for the sources of R (both Unix and Windows)
+- [Bioconductor](http://www.bioconductor.org/): Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. 
 
 ## Perl
 
-- [perl](http://www.perl.org/): 
-- [cpan](http://www.cpan.org/modules/INSTALL.html)
+- [Perl](http://www.perl.org/): The Official Website for Perl Programming Language
+- [cpan](http://www.cpan.org/modules/INSTALL.html): Comprehensive Perl Archive Network
 
 ## GBrowse
-- [GBrowse](http://gmod.org/wiki/GBrowse)
+- [GBrowse](http://gmod.org/wiki/GBrowse): GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes
 
 ## Wikipedia
-- [Bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics) 
-- [Caenorhabditis elegans](http://en.wikipedia.org/wiki/Caenorhabditis_elegans)(C.elegans) 
-- [Zebrafish](http://en.wikipedia.org/wiki/Zebrafish)
+- [Bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics):
+- [Caenorhabditis elegans](http://en.wikipedia.org/wiki/Caenorhabditis_elegans)(C.elegans): 
+- [Zebrafish](http://en.wikipedia.org/wiki/Zebrafish):
 
 ## Programming Practice Websites (Java/C/C++/Perl/Python)
-- [南阳理工学院ACM](http://acm.nyist.net/JudgeOnline/problemset.php)
-- [编程爱好者](http://www.pfan.cn/acm/)
-- [RQNOJ](http://www.rqnoj.cn/problem)
-- [ROSALIND](http://rosalind.info/problems/locations/)
+- [南阳理工学院ACM](http://acm.nyist.net/JudgeOnline/problemset.php):
+- [编程爱好者](http://www.pfan.cn/acm/):
+- [RQNOJ](http://www.rqnoj.cn/problem):
+- [ROSALIND](http://rosalind.info/problems/locations/):
