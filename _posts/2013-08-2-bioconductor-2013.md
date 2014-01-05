@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Install and Update R and Rstudio on Ubuntu
+title: Install and Update R and Rstudio on Ubuntu
 categories: [programming language, ubuntu]
 tags: [r, configure, rstudio]
 ---
