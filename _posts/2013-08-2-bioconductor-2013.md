@@ -19,15 +19,15 @@ Firstly, you should comfirm what the R verison you have on your PC and update or
 
 #### Check the Current R Version on your PC
 ```
-R --version 
+$ R --version 
 ```
 #### Update your PC
 ```
-sudo apt-get update 
+$ sudo apt-get update 
 ```
 #### Upgrade your PC
 ```
-sudo apt-get upgrade
+$ sudo apt-get upgrade
 ```
 
 ### 2. Install the Old or New R Version at Offical Website
@@ -37,30 +37,30 @@ After checking out your PC environment, now you could install the new R version 
 
 #### Configure the Environment 
 ```
- ./configure
+$ ./configure
 ```
 After that
 
 ```
- make
+$ make
 ```
 ![](http://i.imgur.com/EsMVc44.png)
 
 And check if it installed correctly.
 
 ```
- make check
+$ make check
 ```
 #### Install R Under */usr/local/bin/* 
 After that you could directly use it in the terminal
 
 ```
- sudo make install
+$ sudo make install
 ```
 You could check the version if the new R version has already on your PC
 
 ```
- R --version
+$ R --version
 ```
 And you could see that
 
