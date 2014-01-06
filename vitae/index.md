@@ -39,6 +39,16 @@ Next Generation Sequencing & RNA-seq Data Analysis
 - The Excellent Prize the 7th ITT Cup National Water Science and Technology Contest for Middle School Students jointly held by the Publicity and Education Center of State Environmental Protection Administration and [ITT Corporation](http://www.itt.com/) 
 - The Second Prize of the 24th Qingdao Science and Technology Innovation Contest for Youth
 
+## Extracurricular Activities
+
+- 2011-2012 Served as the Study Secretary of the class
+- 2012      Won the Thrid Place in the Goband Contest
+- 2011      Represented Qingdao Agricultural University to take part in the 1st Qingdao Billiards Competition for College Students and won the Game Group Champion.
+- 2010      Participated in the Basketball Game for the class and won the Second Place
+- 2010      Performed Popining in the fifth anniversary Celebration of Heart Association
+- 2010      Participated in the Price Surveys held by Marketing Association
+- 2010      Acted as Art member of College of Animal Sciences and Technology
+
 ## Patents
 
 ### [Utility Model Patents](http://www.sipo.gov.cn/zljs) (Search: 陆燊)
@@ -55,7 +65,6 @@ Next Generation Sequencing & RNA-seq Data Analysis
 - 2012 Automatic Fish Feeder in Fish Bowl
 
 ## Professional Experience
-
 
 ### Work Experience
 
