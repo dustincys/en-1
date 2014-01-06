@@ -52,17 +52,18 @@ And check if it installed correctly.
 $ make check
 ```
 #### Install R Under */usr/local/bin/* 
-After that you could directly use it in the terminal
+
+After that, you could install it at **/usr/local/bin/**.
 
 ```
 $ sudo make install
 ```
-You could check the version if the new R version has already on your PC
+After that, You could directly use it in your terminal and the new **Rstudio** also can identify the new R version you installed just now. And you should close this terminal and resart a new one, then tpye in 
 
 ```
 $ R --version
 ```
-And you could see that
+Check the version if the new R version has already on your PC and you could see that below
 
 ![](http://i.imgur.com/8U6lsLp.png)
 
