@@ -9,13 +9,13 @@ Once you had removed all adapter sequences from your FASTQ files, you were ready
 
 ### What are Tophat, Bowtie, Samtools and Cufflinks?
 
-#### [TopHat](http://tophat.cbcb.umd.edu/) is a program that aligns RNA-Seq reads to a genome in order to identify exon-exon splice junctions. It is built on the ultrafast short read mapping program Bowtie. TopHat runs on Linux and OS X.
+- [TopHat](http://tophat.cbcb.umd.edu/) is a program that aligns RNA-Seq reads to a genome in order to identify exon-exon splice junctions. It is built on the ultrafast short read mapping program Bowtie. TopHat runs on Linux and OS X.
 
-#### [Bowtie](http://bowtie-bio.sourceforge.net/index.shtml) is an ultrafast, memory-efficient short read aligner geared toward quickly aligning large sets of short DNA sequences (reads) to large genomes. It aligns 35-base-pair reads to the human genome at a rate of 25 million reads per hour on a typical workstation. Bowtie indexes the genome with a Burrows-Wheeler index to keep its memory footprint small: for the human genome, the index is typically about 2.2 GB (for unpaired alignment) or 2.9 GB (for paired-end or colorspace alignment).
+- [Bowtie](http://bowtie-bio.sourceforge.net/index.shtml) is an ultrafast, memory-efficient short read aligner geared toward quickly aligning large sets of short DNA sequences (reads) to large genomes. It aligns 35-base-pair reads to the human genome at a rate of 25 million reads per hour on a typical workstation. Bowtie indexes the genome with a Burrows-Wheeler index to keep its memory footprint small: for the human genome, the index is typically about 2.2 GB (for unpaired alignment) or 2.9 GB (for paired-end or colorspace alignment).
 
-#### [Samtools](http://www.biomedcentral.com/content/supplementary/1471-2105-13-42-s1/Cloud-BioLinux-Package-Documentation/docs/samtools.html) provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format.
+- [Samtools](http://www.biomedcentral.com/content/supplementary/1471-2105-13-42-s1/Cloud-BioLinux-Package-Documentation/docs/samtools.html) provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format.
 
-#### [Cufflinks](http://cufflinks.cbcb.umd.edu/) assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. It accepts aligned RNA-Seq reads and assembles the alignments into a parsimonious set of transcripts. Cufflinks then estimates the relative abundances of these transcripts based on how many reads support each one, taking into account biases in library preparation protocols.
+- [Cufflinks](http://cufflinks.cbcb.umd.edu/) assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples. It accepts aligned RNA-Seq reads and assembles the alignments into a parsimonious set of transcripts. Cufflinks then estimates the relative abundances of these transcripts based on how many reads support each one, taking into account biases in library preparation protocols.
 
 ### Configure the working environment for Tophat, Bowtie, Samtools And Cufflinks
 
