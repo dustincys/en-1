@@ -29,4 +29,4 @@ following procedure:
 The keyword typing into Google search bar: zebrafish reference genome -> Ensemble ->
 Download DNA sequence(FASTA) -> ftp://ftp.ensembl.org/pub/release-71/fasta/danio_rerio/dna/
 ```
-Note: The alternative link: ([ftp://ftp.sanger.ac.uk/pub/zfish/assembly/Zv9/](ftp://ftp.sanger.ac.uk/pub/zfish/assembly/Zv9/)
+Note: The alternative link: ([ftp://ftp.sanger.ac.uk/pub/zfish/assembly/Zv9/](ftp://ftp.sanger.ac.uk/pub/zfish/assembly/Zv9/))
