@@ -103,7 +103,7 @@ The process of configuring **Cufflinks** is as same as **Tophat**, **Bowtie** an
 ```
 $ cufflinks ./test_data.sam
 ```
-And you could see as below
+- And you could see as below
 
 ![](http://i.imgur.com/5XrGWQa.png)
 
