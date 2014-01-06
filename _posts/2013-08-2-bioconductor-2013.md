@@ -46,7 +46,7 @@ $ make
 ```
 ![](http://i.imgur.com/EsMVc44.png)
 
-And check if it installed correctly.
+And check if it was installed correctly.
 
 ```
 $ make check
