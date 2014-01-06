@@ -53,6 +53,7 @@ First, go to your home directory:
 $ cd ~/
 ```
 #### Download the binary file and decompress it:
+
 ```
 $ wget http://sourceforge.net/projects/bowtie-bio/files/bowtie/0.12.7/bowtie-0.12.7-linux-x86_64.zip
 $ tar xvfz bowtie-0.12.7-linux-x86_64.zip
@@ -61,6 +62,7 @@ $ cd bowtie-0.12.7
 #### Set the environment variables of Bowite
 
 Copy its executable files to /usr/bin:
+
 ```
 $ sudo cp bowtie /usr/bin
 $ sudo cp bowtie-build /usr/bin
@@ -71,6 +73,7 @@ or use the method I have metioned at previous journal ([Configure the Path And S
 #### Install Samtools
 
 Download the source file and decompress it:
+
 ```
 $ cd ~/
 $ wget http://sourceforge.net/projects/samtools/files/samtools/0.1.16/samtools-0.1.16.tar.bz2
@@ -79,6 +82,7 @@ $ tar xvfj samtools-0.1.16.tar.bz2
 > Note: `tar xvfj` command is used to uncompress file in `bz2` format. Use `tar xvfz` instead to uncompress file in `gzip` format.
 
 #### Complie Samtools:
+
 ```
 $ cd samtools-0.1.16
 $ make
@@ -90,6 +94,7 @@ Just see the procedures above.
 #### Install Tophat
 
 Download the binary file and untar it:
+
 ```
 $ cd ~/
 $ wget http://tophat.cbcb.umd.edu/downloads/tophat-1.3.0.Linux_x86_64.tar.gz
@@ -101,6 +106,7 @@ $ cd tophat-1.3.0.Linux_x86_64
 Just see the procedures above.
 
 #### Use the command line to check if the Tophat could work
+
 ```
 $ wget http://tophat.cbcb.umd.edu/test_data.tar.gz
 $ tar zxvf test_data.tar.gz
