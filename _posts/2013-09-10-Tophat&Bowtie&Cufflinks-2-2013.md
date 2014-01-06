@@ -15,7 +15,9 @@ tags: [Tophat, Bowtie, Samtools, Cufflinks, workflow]
 - Step 5: Use **R** to calculate the correlation of **FPKM** between the both replications.
 - Step 6: Merge the replications and run **Tophat** and **Cufflinks** again.
 
+
 #### Download the zebrafish reference genome
+
 The next two weeks, all my works have been showed in the workflow above. In term of the paper ([Systematic identification of long noncoding RNAs expressed during zebrafish embryogenesis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3290793/)) I was working, firstly I should figure out where the zebrafish reference genome the paper used is from. And it told me that:
 
 ![](http://i.imgur.com/0j2PDa5.png)
@@ -27,4 +29,4 @@ following procedure:
 The keyword typing into Google search bar: zebrafish reference genome -> Ensemble ->
 Download DNA sequence(FASTA) -> ftp://ftp.ensembl.org/pub/release-71/fasta/danio_rerio/dna/
 ```
-Note: The alternative link: ( ftp://ftp.sanger.ac.uk/pub/zfish/assembly/Zv9/ )
+Note: The alternative link: ([ftp://ftp.sanger.ac.uk/pub/zfish/assembly/Zv9/](ftp://ftp.sanger.ac.uk/pub/zfish/assembly/Zv9/)
