@@ -61,7 +61,7 @@ $ cd bowtie-0.12.7
 ```
 #### Set the environment variables of Bowite
 
-Copy its executable files to /usr/bin:
+Copy its executable files to /usr/bin:  
 
 ```
 $ sudo cp bowtie /usr/bin
