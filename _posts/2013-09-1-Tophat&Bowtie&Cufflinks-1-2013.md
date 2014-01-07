@@ -36,12 +36,12 @@ $ cd bowtie-0.12.7
 ```
 #### Set the environment variables of Bowite
 
-Copy its executable files to /usr/bin:  
+Copy its executable files to /usr/local/bin:  
 
 ```
-$ sudo cp bowtie /usr/bin
-$ sudo cp bowtie-build /usr/bin
-$ sudo cp bowtie-inspect /usr/bin
+$ sudo cp bowtie /usr/local/bin
+$ sudo cp bowtie-build /usr/local/bin
+$ sudo cp bowtie-inspect /usr/local/bin
 ```
 or use the method I have metioned at previous journal ([Configure the Path And Set SSH with Tricks (Ubuntu)](http://lushen.github.com/en/2013/08/SSH-2013/)).
 
