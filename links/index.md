@@ -17,6 +17,9 @@ comments: yes
 - [Bioconductor](http://www.bioconductor.org/): Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. 
 - [Quick R Homepage](http://www.statmethods.net):
 - [An Introduction to R (long!)](http://cran.r-project.org/doc/manuals/R-intro.html):
+- [R Programming - Manuals](http://manuals.bioinformatics.ucr.edu/home/programming-in-r):
+- [R Programming wikibooks](http://en.wikibooks.org/wiki/R_Programming):
+- [Advanced R programming](http://adv-r.had.co.nz/)
 
 ## Perl
 
