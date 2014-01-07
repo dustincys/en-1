@@ -36,7 +36,8 @@ comments: yes
 - [ROSALIND](http://rosalind.info/problems/locations/):
 
 ## Bioinformatics
-- [Bioinformatics Software And Tools](http://bioinformaticssoftwareandtools.co.in/index.html)
+- [Bioinformatics Software And Tools](http://bioinformaticssoftwareandtools.co.in/index.html):
+- [Yixf's blog](http://yixf.name/):
 - [生物信息学天空](http://www.bioinfosky.com/):
 - [北京大学生物信息中心](http://www.cbi.pku.edu.cn/chinese/documents/index.html):
 - [生物信息学研究论坛网](http://www.bioxxx.cn/forum.php):
