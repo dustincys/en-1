@@ -73,10 +73,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 
 ### Computer Skills
 
-- Operation System: WinXP&7, Linux(Ubuntu), Unix(Mac) 
-```
-(from proficiency to familiar)
-```
+- Operation System: WinXP&7, Linux(Ubuntu) and Unix(Mac) 
 - Programming Language: Perl, Java, R, C/C++, Python 
 ```
 (from proficiency to familiar)
