@@ -79,7 +79,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 (from proficiency to familiar)
 ```
 - SQL language: MySQL, SQLite3
-- Others: Micosoft Office, Bioinformatics Software (TopHat, Bowtie, Cufflinks, etc.), web language (html, css, javascript,etc.),git&github
+- Others: Micosoft Office, Bioinformatics Software (TopHat, Bowtie, Cufflinks, etc.), web language (html, css, javascript,etc.), git&github
 
 ## Self Assessment
 
