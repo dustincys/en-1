@@ -26,11 +26,6 @@ comments: yes
 ## GBrowse
 - [GBrowse](http://gmod.org/wiki/GBrowse): GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes
 
-## Wikipedia
-- [Bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics):
-- [Caenorhabditis elegans](http://en.wikipedia.org/wiki/Caenorhabditis_elegans)(C.elegans): 
-- [Zebrafish](http://en.wikipedia.org/wiki/Zebrafish):
-
 ## Programming Practice Websites (Java/C/C++/Perl/Python)
 - [南阳理工学院ACM](http://acm.nyist.net/JudgeOnline/problemset.php):
 - [编程爱好者](http://www.pfan.cn/acm/):
