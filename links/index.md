@@ -16,7 +16,6 @@ comments: yes
 - [R Source](http://cran.r-project.org/sources.html): Official releases of R source code are most likely what you want if you are looking for the sources of R (both Unix and Windows)
 - [Bioconductor](http://www.bioconductor.org/): Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. 
 - [Quick R Homepage](http://www.statmethods.net):
-- [Bioconductor](http://www.bioconductor.org):
 - [An Introduction to R (long!)](http://cran.r-project.org/doc/manuals/R-intro.html):
 
 ## Perl
