@@ -331,3 +331,10 @@ Martí-Renom MA, Stuart AC, Fiser A, Sánchez R, Melo F, Sali A.
 
 ### Week 3  第三周
 - [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC290255/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC290255/) (Recommended by Sebastien Beaune) 
+
+## [Quize](https://class.coursera.org/pkubioinfo-001/quiz)
+
+## [Final Exam](https://class.coursera.org/pkubioinfo-001/quiz/attempt?quiz_id=267)
+
+
+
