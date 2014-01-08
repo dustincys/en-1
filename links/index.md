@@ -55,5 +55,5 @@ comments: yes
 - [UCR Institute of Intergrate Genome Biology](http://manuals.bioinformatics.ucr.edu/home)
 
 ## Others
-- [Courses](https://www.coursera.org/):
+- [Coursera](https://www.coursera.org/):provide free online courses all over the world.
 
