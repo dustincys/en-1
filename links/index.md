@@ -17,7 +17,6 @@ comments: yes
 - [Bioconductor](http://www.bioconductor.org/): Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. 
 - [Quick R Homepage](http://www.statmethods.net):
 - [An Introduction to R (long!)](http://cran.r-project.org/doc/manuals/R-intro.html):
-- [R Programming - Manuals](http://manuals.bioinformatics.ucr.edu/home/programming-in-r):
 - [R Programming wikibooks](http://en.wikibooks.org/wiki/R_Programming):
 - [Advanced R programming](http://adv-r.had.co.nz/):
 - [Learning R](ggplot2: Elegant Graphics for Data Analysis):
@@ -53,3 +52,4 @@ comments: yes
 - [博耘生物](http://boyun.sh.cn/bio/index.php):
 - [生物统计家园](http://www.biostatistic.net/portal.php):
 - [云生物](http://yunbio.com/): The website that anwsers the questions about bioinformatics & biocompute.
+- [UCR Institute of Intergrate Genome Biology](http://manuals.bioinformatics.ucr.edu/home)
