@@ -9,9 +9,10 @@ As we know, R language is a famous open source language, which have been widely 
 
 ## The Whole Procedues of Updating R
 
-- step 1: Update and Upgrade R on Your PC
-- step 2: Install the Old or New R Version at Offical Website
+- step 1: Update And Upgrade R on Your PC
+- step 2: Install the Old or New R Version
 - step 3: Uninstall Rstudio on Your PC And Reinstall It on Your PC
+- step 4: Merge Previous Packages You Installed Before with the New Packages 
 
 ### 1. Update and Upgrade R on Your PC
 
@@ -30,7 +31,7 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 ```
 
-### 2. Install the Old or New R Version at Offical Website
+### 2. Install the Old or New R Version
 After checking out your PC environment, now you could install the new R version from [R](http://cran.rstudio.com/) homepage or old R version from [R Source](http://cran.r-project.org/sources.html). And you could decompress the R source code zip file on your PC.
 
 #### Unzip the R Source Code Zip File
@@ -84,3 +85,7 @@ You can download the lastest **Rstudio** version from this [page](http://www.rst
 After that, you could reinstall it via **Ubuntu Software Center**. and it will automatically change to the R version that you have installed. Fortunately, you could see it as below.
 
 ![](http://i.imgur.com/gM70JYv.png)
+
+## Other references
+
+-[升级完R后如何快速安装所有安装过的包](http://pgfe.umassmed.edu/ou/archives/3113)
