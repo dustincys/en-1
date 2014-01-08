@@ -40,7 +40,8 @@ comments: yes
 ## Bioinformatics
 - [Bioinformatics Software And Tools](http://bioinformaticssoftwareandtools.co.in/index.html):
 - [Yixf's blog](http://yixf.name/):
-- [糗世界](http://pgfe.umassmed.edu/ou/)
+- [糗世界](http://pgfe.umassmed.edu/ou/):
+- [Public Library of Bioinformatics](http://www.bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg):
 - [生物信息学天空](http://www.bioinfosky.com/):
 - [北京大学生物信息中心](http://www.cbi.pku.edu.cn/chinese/documents/index.html):
 - [生物信息学研究论坛网](http://www.bioxxx.cn/forum.php):
