@@ -19,7 +19,8 @@ comments: yes
 - [An Introduction to R (long!)](http://cran.r-project.org/doc/manuals/R-intro.html):
 - [R Programming - Manuals](http://manuals.bioinformatics.ucr.edu/home/programming-in-r):
 - [R Programming wikibooks](http://en.wikibooks.org/wiki/R_Programming):
-- [Advanced R programming](http://adv-r.had.co.nz/)
+- [Advanced R programming](http://adv-r.had.co.nz/):
+- [Learning R](ggplot2: Elegant Graphics for Data Analysis):
 
 ## Perl
 
