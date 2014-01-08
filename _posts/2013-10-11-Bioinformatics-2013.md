@@ -15,10 +15,25 @@ This course: **Bioinformatics:Introduction and Methods**, I just occasionally fo
 - [Ge Gao](https://www.coursera.org/instructor/gegao)
 - [Liping Wei](https://www.coursera.org/instructor/liping-wei)
 
+## Syllabus
+This course will cover 12 topics, one topic per week. Because this is the first time we teach this course in a MOOC format, the exact content might change slightly once we get feedback from students.
+
+- Week 1: Introduction and history of bioinformatics
+- Week 2: Sequence alignment
+- Week 3: Sequence database search
+- Week 4: Markov Model 
+- Week 5: Next generation sequencing (NGS) : mapping of reads from resequencing, and calling of genetic variants
+- Week 6: Functional prediction of genetic variants
+- Week 7: Next generation sequencing: transcriptome analysis, and RNA-Seq
+- Week 8: Prediction and analysis of noncoding RNA
+- Week 9: Ontology, and identification of molecular pathways
+- Week 10:  Bioinformatics database and software resources
+- Week 11:  Case study I - Origination of New Genes \
+- Week 12:  Case study II
 
 
-## Required Readings 必读文章
-### Week 1 第一周
+## Required Readings
+### Week 1 
 - Bioinformatics. 2003 Nov 22;19(17):2176-90. 
 Early bioinformatics: the birth of a discipline--a personal view. 
 Ouzounis CA, Valencia A. 
@@ -34,7 +49,7 @@ Bioinformatics in China: a personal perspective.
 Wei L, Yu J. 
 [PMID: 18437216](http://www.ncbi.nlm.nih.gov/pubmed/?term=18437216)
 
-### Week 2 第二周
+### Week 2
 - J Mol Biol. 1981 Mar 25;147(1):195-7. 
 Identification of common molecular subsequences. 
 Smith TF, Waterman MS. 
@@ -53,7 +68,7 @@ S Henikoff and J G Henikoff
 [PMID: 1438297](http://www.ncbi.nlm.nih.gov/pubmed/?term=1438297) 
 Note: this paper is supplementary and thus OPTIONAL.
 
-### Week 3 第三周
+### Week 3
 - J Mol Biol. 1990 Oct 5;215(3):403-10. 
 Basic local alignment search tool. 
 Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. 
@@ -106,13 +121,13 @@ Wootton JC, Federhen S.
 Note: this paper is supplementary and thus OPTIONAL. You might need a subscription to the Computers & Chemistry magazine in order to view the full-text of this paper.
 
 
-### Week 4 第四周
+### Week 4 
 - Nature Biotechnology 22, 1315 - 1316 (2004) 
 What is a hidden Markov model? 
 Sean R Eddy. 
 [PMID: 15470472](http://www.ncbi.nlm.nih.gov/pubmed/?term=15470472) 
 
-### Week 5 第五周
+### Week 5 
 - Nat Biotechnol. 2009 May;27(5):455-7. 
 How to map billions of short reads onto genomes. 
 Trapnell C, Salzberg SL. 
@@ -127,13 +142,13 @@ Metzker ML.
 - [An Introduction to Hidden Markov Models for Biological Sequences](An Introduction to Hidden Markov Models for Biological Sequences ) by Anders Krogh 
 
 
-### Week 6 第六周
+### Week 6 
 - Bioinformatics. 2007 Jun 15;23(12):1444-50. 
 Finding new structural and sequence attributes to predict possible disease association of single amino acid polymorphism (SAP). 
 Ye ZQ, Zhao SQ, Gao G, Liu XQ, Langlois RE, Lu H, Wei L. 
 [PMID: 17384424](http://www.ncbi.nlm.nih.gov/pubmed/?term=17384424) 
 
-### Week 7 第七周
+### Week 7 
 - Nat Methods. 2011 Jun;8(6):469-77. 
 Computational methods for transcriptome annotation and quantification using RNA-seq. 
 Garber M, Grabherr MG, Guttman M, Trapnell C. 
@@ -145,14 +160,14 @@ Trapnell C, Williams BA, Pertea G, Mortazavi A, Kwan G, van Baren MJ, Salzberg S
 [PMID: 20436464](http://www.ncbi.nlm.nih.gov/pubmed/?term=20436464) 
 
 
-### Week 8 第八周
+### Week 8 
 - Genome Biol. 2013 Sep 10;14(9):R95. 
 Comprehensive evaluation of differential gene expression analysis methods for RNA-seq data. 
 Rapaport F, Khanin R, Liang Y, Pirun M, Krek A, Zumbo P, Mason CE, Socci ND, Betel D. 
 [PMID: 24020486](http://www.ncbi.nlm.nih.gov/pubmed/?term=24020486)  
 
 
-### Week 9 第九周
+### Week 9 
 - Nat Genet. 2000 May;25(1):25-9. 
 Gene ontology: tool for the unification of biology. 
 The Gene Ontology Consortium. 
@@ -174,7 +189,7 @@ Li CY, Mao X, Wei L.
 [PMID: 18179280](http://www.ncbi.nlm.nih.gov/pubmed/?term=18179280)  
 
 
-### Week 11 第十一周
+### Week 11 
 - Nat Rev Genet. 2013 Sep;14(9):645-60. 
 New genes as drivers of phenotypic evolution. 
 Chen S, Krinsky BH, Long M. 
@@ -196,12 +211,9 @@ Xie C, Zhang YE, Chen JY, Liu CJ, Zhou WZ, Li Y, Zhang M, Zhang R, Wei L, Li CY.
 [PMID: 23028352](http://www.ncbi.nlm.nih.gov/pubmed/?term=23028352)  
 
 
-
-
-
-## Supplementary Readings 补充阅读
-### Week 1  第一周
-#### Papers in  Unit 2 第二单元里出现的文章
+## Supplementary Readings 
+### Week 1  
+#### Papers in  Unit 2 
 - Nature. 1953 Apr 25;171(4356):737-8. 
 Molecular structure of nucleic acids; a structure for deoxyribose nucleic acid. 
 WATSON JD, CRICK FH. 
@@ -284,14 +296,14 @@ Ouzounis CA, Valencia A.
 
 
 
-### Week 4  第四周
+### Week 4  
 - Nucleic Acids Res. 1998 Jan 1;26(1):320-2. 
 Pfam: multiple sequence alignments and HMM-profiles of protein domains. 
 Sonnhammer EL, Eddy SR, Birney E, Bateman A, Durbin R. 
 [PMID: 9399864](http://www.ncbi.nlm.nih.gov/pubmed/?term=9399864) 
 
 
-### Week 5  第五周
+### Week 5  
 - Nat Rev Genet. 2011 Jun;12(6):443-51. 
 Genotype and SNP calling from next-generation sequencing data. 
 Nielsen R, Paul JS, Albrechtsen A, Song YS. 
@@ -303,7 +315,7 @@ Goldstein DB, Allen A, Keebler J, Margulies EH, Petrou S, Petrovski S, Sunyaev S
 [PMID: 23752795](http://www.ncbi.nlm.nih.gov/pubmed/?term=23752795) 
 
 
-### Week 6  第六周
+### Week 6  
 - Annu Rev Biophys Biomol Struct. 2000;29:291-325. 
 Comparative protein structure modeling of genes and genomes. 
 Martí-Renom MA, Stuart AC, Fiser A, Sánchez R, Melo F, Sali A. 
@@ -311,8 +323,8 @@ Martí-Renom MA, Stuart AC, Fiser A, Sánchez R, Melo F, Sali A.
 
 
 
-## Community Contributed 论坛推荐
-### Week 2  第二周
+## Community Contributed 
+### Week 2  
 - [http://www.bioinformatics.wsu.edu/bioinfo_course/notes/Lecture6.pdf](http://www.bioinformatics.wsu.edu/bioinfo_course/notes/Lecture6.pdf) (Recommended by Wee Theng Ong) 
 
 - [http://www.cs.umd.edu/class/fall2011/cmsc858s/Alignment.pdf](http://www.cs.umd.edu/class/fall2011/cmsc858s/Alignment.pdf) (Recommended by Abida Batool) 
