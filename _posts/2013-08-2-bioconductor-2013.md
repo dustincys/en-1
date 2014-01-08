@@ -86,7 +86,7 @@ After that, you could reinstall it via **Ubuntu Software Center**. and it will a
 
 ![](http://i.imgur.com/gM70JYv.png)
 
-### Merge Previous Packages with the New Packages
+### 4. Merge Previous Packages with the New Packages
 
 ## Other references
 
