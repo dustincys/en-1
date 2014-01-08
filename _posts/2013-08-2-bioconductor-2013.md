@@ -5,7 +5,7 @@ categories: [programming language, ubuntu]
 tags: [r, configure, rstudio]
 ---
 
-As we know, R language is a famous open source language, which have been widely applied in biology fields due to its strong and complete functions of drawing and statistical computering ability. And Rstudio is the most popular IDE for R language. Although R is very useful in statistics and data analysis, R language is not prefect in some parts, such as, some old packages cannot be compatible with new R version. However, the common problems you will often meet at your work is that R language is hard to update on Ubuntu at once. 
+As we know, R language is a famous open source language, which have been widely applied in biology fields due to its strong and complete functions of drawing and statistical computering ability. And Rstudio is the most popular IDE for R language. Although R is very useful in statistics and data analysis, R language is not prefect in some parts, such as, some old packages cannot be compatible with new R version. However, the common problems you always met every time is that R language is hard to update on Ubuntu at once. Thus, I write this journal to solve this common issue, especially when the R 3.0.2 is coming soon! 
 
 ## The Whole Procedues of Updating R
 
