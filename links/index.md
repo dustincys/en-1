@@ -42,6 +42,7 @@ comments: yes
 - [Yixf's blog](http://yixf.name/):
 - [LET'S DO BIOINFORMATICS](http://bioinformatics.risha.me/):
 - [Plankton Images](http://planktonimages.wordpress.com/contact/):
+- [RNA-seq Blog](http://www.rna-seqblog.com/analysis-of-rna-seq-data-with-rbioconductor-2/)
 - [糗世界](http://pgfe.umassmed.edu/ou/):
 - [Public Library of Bioinformatics](http://www.bioconductor.org/images/logo/jpg/bioconductor_logo_cmyk.jpg):
 - [生物信息学天空](http://www.bioinfosky.com/):
