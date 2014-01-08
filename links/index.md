@@ -53,3 +53,7 @@ comments: yes
 - [生物统计家园](http://www.biostatistic.net/portal.php):
 - [云生物](http://yunbio.com/): The website that anwsers the questions about bioinformatics & biocompute.
 - [UCR Institute of Intergrate Genome Biology](http://manuals.bioinformatics.ucr.edu/home)
+
+## Others
+- [Courses](https://www.coursera.org/):
+
