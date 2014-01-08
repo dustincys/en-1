@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Identify the Useful Information from Scientific Diagrams
+title: Identify the Useful Information from Scientific Diagrams (Statistics)
 categories: [reference, basic knowledge]
 tags: [bioinformatics, basic knowledge, molecular biology]
 ---
@@ -11,4 +11,4 @@ Coming soon!
 
 ![](http://i.imgur.com/7KVPNZo.jpg)
 
-## Boinformatics 
+
