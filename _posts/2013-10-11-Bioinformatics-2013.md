@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bioinformatics: Introduction and Methods
+title: Bioinformatics:Introduction and Methods
 categories: [reference, basic knowledge]
 tags: [courses, bioinformatics]
 ---
