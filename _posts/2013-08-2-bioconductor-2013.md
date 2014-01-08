@@ -12,7 +12,7 @@ As we know, R language is a famous open source language, which have been widely 
 - step 1: Update And Upgrade R on Your PC
 - step 2: Install the Old or New R Version
 - step 3: Uninstall Rstudio on Your PC And Reinstall It on Your PC
-- step 4: Merge Previous Packages You Installed Before with the New Packages 
+- step 4: Merge Previous Packages with the New Packages 
 
 ### 1. Update and Upgrade R on Your PC
 
@@ -85,6 +85,8 @@ You can download the lastest **Rstudio** version from this [page](http://www.rst
 After that, you could reinstall it via **Ubuntu Software Center**. and it will automatically change to the R version that you have installed. Fortunately, you could see it as below.
 
 ![](http://i.imgur.com/gM70JYv.png)
+
+### Merge Previous Packages with the New Packages
 
 ## Other references
 
