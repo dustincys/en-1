@@ -328,7 +328,7 @@ Martí-Renom MA, Stuart AC, Fiser A, Sánchez R, Melo F, Sali A.
 
 - [http://www.cs.umd.edu/class/fall2011/cmsc858s/Alignment.pdf](http://www.cs.umd.edu/class/fall2011/cmsc858s/Alignment.pdf) (Recommended by Abida Batool) 
 
-### Week 3  第三周
+### Week 3
 - [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC290255/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC290255/) (Recommended by Sebastien Beaune) 
 
 ## [Quize](https://class.coursera.org/pkubioinfo-001/quiz)
