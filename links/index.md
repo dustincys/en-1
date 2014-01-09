@@ -20,6 +20,7 @@ comments: yes
 - [R Programming wikibooks](http://en.wikibooks.org/wiki/R_Programming):
 - [Advanced R programming](http://adv-r.had.co.nz/):
 - [Learning R](ggplot2: Elegant Graphics for Data Analysis):
+- [R Graph Gallery](http://rgm3.lab.nig.ac.jp/RGM/):
 
 ## Perl
 
