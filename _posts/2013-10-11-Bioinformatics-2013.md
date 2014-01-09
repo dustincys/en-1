@@ -29,6 +29,7 @@ This course will cover 12 topics, one topic per week. Because this is the first 
 - Week 11:  Case study I - Origination of New Genes \
 - Week 12:  Case study II
 
+## [Video Lectures](https://class.coursera.org/pkubioinfo-001/lecture)
 
 ## Required Readings
 ### Week 1 
