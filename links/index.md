@@ -60,5 +60,5 @@ comments: yes
 - [Coursera](https://www.coursera.org/):provide free online courses all over the world.
 - [GoDaddy](http://www.godaddy.com/):
 - [MOOC](http://mooc.guokr.com/):
-
+- [VCRU Bioinformatics](http://www.vcru.wisc.edu/simonlab/bioinformatics/programs/)
 
