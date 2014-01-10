@@ -54,10 +54,11 @@ comments: yes
 - [生物统计家园](http://www.biostatistic.net/portal.php):
 - [云生物](http://yunbio.com/): The website that anwsers the questions about bioinformatics & biocompute.
 - [UCR Institute of Intergrate Genome Biology](http://manuals.bioinformatics.ucr.edu/home):
+- [VCRU Bioinformatics](http://www.vcru.wisc.edu/simonlab/bioinformatics/programs/):
 
 ## Others
 - [Coursera](https://www.coursera.org/):provide free online courses all over the world.
 - [GoDaddy](http://www.godaddy.com/):
 - [MOOC](http://mooc.guokr.com/):
-- [VCRU Bioinformatics](http://www.vcru.wisc.edu/simonlab/bioinformatics/programs/):
+
 
