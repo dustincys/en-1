@@ -25,6 +25,7 @@ comments: yes
 
 - [cpan](http://www.cpan.org/modules/INSTALL.html): Comprehensive Perl Archive Network
 - [Execute Perl Script Online](http://www.compileonline.com/execute_perl_online.php):
+- [Bioinformatics Core Mission: Data Analysis](http://wiki.bioinformatics.ucdavis.edu/index.php/Data_Analysis)
 
 ## GBrowse
 - [GBrowse](http://gmod.org/wiki/GBrowse): GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes
