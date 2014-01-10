@@ -21,9 +21,8 @@ comments: yes
 - [Learning R](ggplot2: Elegant Graphics for Data Analysis):
 - [R Graph Gallery](http://rgm3.lab.nig.ac.jp/RGM/):
 
-## Perl
+## [Perl](http://www.perl.org/)
 
-- [Perl](http://www.perl.org/): The Official Website for Perl Programming Language
 - [cpan](http://www.cpan.org/modules/INSTALL.html): Comprehensive Perl Archive Network
 - [Execute Perl Script Online](http://www.compileonline.com/execute_perl_online.php):
 
