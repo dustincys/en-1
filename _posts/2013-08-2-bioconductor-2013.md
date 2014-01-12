@@ -34,8 +34,11 @@ $ sudo apt-get upgrade
 ### 2. Install the Old or New R Version
 After checking out your PC environment, now you could install the new R version from [R](http://cran.rstudio.com/) homepage or old R version from [R Source](http://cran.r-project.org/sources.html). And you could decompress the R source code zip file on your PC.
 
-#### Unzip the R Source Code Zip File
-
+#### Download And Unzip the R Source Code
+```
+$ wget http://cran.r-project.org/src/base/R-3/
+$ tar xvfz R-3.0.2.tar.gz
+```
 #### Configure the Environment 
 ```
 $ ./configure
