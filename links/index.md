@@ -22,7 +22,6 @@ comments: yes
 - [R Graph Gallery](http://rgm3.lab.nig.ac.jp/RGM/):
 - [Data Mining With R](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/):
 - [数据科学与R语言](http://xccds1977.blogspot.com/):
-- 
 
 ## [Perl](http://www.perl.org/)
 
