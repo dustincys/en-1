@@ -30,9 +30,6 @@ This course will cover 12 topics, one topic per week. Because this is the first 
 - Week 12:  Case study II
 
 ## [Video Lectures](https://class.coursera.org/pkubioinfo-001/lecture)
-### Example:
-
-<iframe src="https://class.coursera.org/pkubioinfo-001/lecture/view?lecture_id=33" width="600" height="365" frameborder="0"></iframe>
 
 ## Required Readings
 ### Week 1 
