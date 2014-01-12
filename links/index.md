@@ -20,6 +20,9 @@ comments: yes
 - [Advanced R programming](http://adv-r.had.co.nz/):
 - [Learning R](ggplot2: Elegant Graphics for Data Analysis):
 - [R Graph Gallery](http://rgm3.lab.nig.ac.jp/RGM/):
+- [Data Mining With R](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/):
+- [数据科学与R语言](http://xccds1977.blogspot.com/):
+- 
 
 ## [Perl](http://www.perl.org/)
 
