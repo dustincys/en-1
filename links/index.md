@@ -64,6 +64,7 @@ comments: yes
 - [GoDaddy](http://www.godaddy.com/):
 - [MOOC](http://mooc.guokr.com/):
 - [鲁塔弗的博客](http://lutaf.com/155.htm):
+- [LaTeX 科技排版](http://www.math.ecnu.edu.cn/~latex/):
 
 
 
