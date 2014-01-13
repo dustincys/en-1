@@ -41,7 +41,7 @@ $ tar xvfz R-3.0.2.tar.gz
 ```
 #### Configure the Environment 
 ```
-$ cd R-3.0.2
+$ cd R-2.15.2
 $ ./configure
 ```
 After that
