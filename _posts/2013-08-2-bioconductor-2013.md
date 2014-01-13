@@ -94,4 +94,4 @@ After that, you could reinstall it via **Ubuntu Software Center**. and it will a
 
 ## Other references
 
--[升级完R后如何快速安装所有安装过的包](http://pgfe.umassmed.edu/ou/archives/3113)
+- [升级完R后如何快速安装所有安装过的包](http://pgfe.umassmed.edu/ou/archives/3113)
