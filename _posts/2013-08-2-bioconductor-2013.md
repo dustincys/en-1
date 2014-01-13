@@ -42,7 +42,7 @@ $ tar xvfz R-2.15.2.tar.gz
 #### Configure the Environment 
 ```
 $ cd R-2.15.2
-$ ./configure
+$ ./configure --enable-R-shlib
 ```
 After that
 
