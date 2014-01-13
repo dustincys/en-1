@@ -37,7 +37,7 @@ After checking out your PC environment, now you could install the new R version 
 #### Download And Unzip the R Source Code
 ```
 $ wget http://cran.r-project.org/src/base/R-3/
-$ tar xvfz R-3.0.2.tar.gz
+$ tar xvfz R-2.15.2.tar.gz
 ```
 #### Configure the Environment 
 ```
