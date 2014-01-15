@@ -32,7 +32,7 @@ comments: yes
 ## GBrowse
 - [GBrowse](http://gmod.org/wiki/GBrowse): GBrowse is a combination of database and interactive web pages for manipulating and displaying annotations on genomes
 
-## Programming (Java/C/C++/Perl/Python)
+## Programming Practice (Java/C/C++/Perl/Python)
 - [南阳理工学院ACM](http://acm.nyist.net/JudgeOnline/problemset.php):
 - [编程爱好者](http://www.pfan.cn/acm/):
 - [RQNOJ](http://www.rqnoj.cn/problem):
@@ -66,5 +66,6 @@ comments: yes
 - [鲁塔弗的博客](http://lutaf.com/155.htm):
 - [LaTeX 科技排版](http://www.math.ecnu.edu.cn/~latex/):
 - [生物信息学讲座](http://www.soku.com/search_video/q_%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6%E8%AE%B2%E5%BA%A7_orderby_1?sfilter=0&noqc=):
+- [阮一峰的网络日志](http://www.ruanyifeng.com/blog/):
 
 
