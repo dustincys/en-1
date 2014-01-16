@@ -71,4 +71,5 @@ comments: yes
 - [Data Cook](http://rootofsky.diandian.com/):
 - [hackerzhou's blog](http://hackerzhou.me/):
 - [小叉子](http://winbule.com/):
-
+- [方山子的博客](http://www.fangshanzi.com/):
+- [MBWX](http://www.mb-wx.com/default.asp):
