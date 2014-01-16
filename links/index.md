@@ -69,5 +69,6 @@ comments: yes
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/):
 - [cxw](http://chenxingwei.diandian.com/):
 - [Data Cook](http://rootofsky.diandian.com/):
+- [hackerzhou's blog](http://hackerzhou.me/):
 
 
