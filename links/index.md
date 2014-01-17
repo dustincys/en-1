@@ -74,3 +74,4 @@ comments: yes
 - [方山子的博客](http://www.fangshanzi.com/):
 - [MBWX](http://www.mb-wx.com/default.asp):
 - [厚朴](http://ce.sysu.edu.cn/hope/index.html):
+- [Lady Love IT](http://www.ladyloveit.com/about-this-site/):
