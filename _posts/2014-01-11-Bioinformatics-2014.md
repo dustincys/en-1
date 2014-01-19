@@ -25,7 +25,19 @@ If you cannot afford one HPC by yourself, there is still another alternative app
 
 ## The Basic Skills And Knowledge You Should Be Equiped With
 
-### Programming Skills
+### Computer Skills
+
+The basic Computer skills is necessary for every bioinformaticians, the list below display the status of each skill in bioinformatics.
+
+#### Operation System
+
+#### Programming Language
+
+|Required||Perl, R|
+--------------------
+|Optional||R, Python, C/C++, Java|
+
+#### 
 
 ### Molecular Biology Knowledge
 
