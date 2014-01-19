@@ -25,10 +25,27 @@ If you cannot afford one HPC by yourself, there is still another alternative app
 
 ## The Basic Skills And Knowledge You Should Be Equiped With
 
+### Programming Skills
+
+### Molecular Biology Knowledge
+
+### Bioinformatics
+
+### Others
+
 ## Access to Learning Materials Through the Various Ways
+
+### Online Tutorials And Courses
+
+### Jion Discussion Group
+
+### Share the Your Ideas with Other Top Guys
 
 ## Practice And Keep Going
 
+### Register Online Programming Projects
+
+### Apply for a Lab  
 
 
 
