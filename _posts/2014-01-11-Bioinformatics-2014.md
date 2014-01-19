@@ -41,6 +41,15 @@ The basic Computer skills is necessary for every bioinformaticians, the list bel
 || 1910 || -15 || 30 ||
 || 1920 || -10 || 32 ||
 
+<table>
+<tbody>
+<tr><td><em>Year</em></td><td><em>Temperature (low)</em></td><td><em>Temperature (high)</em></td></tr>
+<tr><td>1900</td><td>-10</td><td>25</td></tr>
+<tr><td>1910</td><td>-15</td><td>30</td></tr>
+<tr><td>1920</td><td>-10</td><td>32</td></tr>
+</tbody>
+</table>
+
 #### 
 
 ### Molecular Biology Knowledge
