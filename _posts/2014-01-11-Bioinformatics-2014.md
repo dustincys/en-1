@@ -36,6 +36,11 @@ The basic Computer skills is necessary for every bioinformaticians, the list bel
 || **Required** || **Optional** || **Others** ||  
 || Perl, R, SQL || Ruby, Python, C/C++, Java || Git, Javascripts, CSS ||  
 
+|| *Year* || *Temperature (low)* || *Temperature (high)* ||
+|| 1900 || -10 || 25 ||
+|| 1910 || -15 || 30 ||
+|| 1920 || -10 || 32 ||
+
 #### 
 
 ### Molecular Biology Knowledge
