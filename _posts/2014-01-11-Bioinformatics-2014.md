@@ -33,8 +33,6 @@ The basic Computer skills is necessary for every bioinformaticians, the list bel
 
 #### Programming Language
 
-||  ||  ||  ||  
-
 <table>
 <tbody>
 <tr><td><em>Required</em></td><td><em>Optional</em></td><td><em>Others</em></td></tr>
