@@ -34,7 +34,7 @@ The basic Computer skills is necessary for every bioinformaticians, the list bel
 #### Programming Language
 
 |Required||Perl, R|
---------------------
+===================
 |Optional||R, Python, C/C++, Java|
 
 #### 
