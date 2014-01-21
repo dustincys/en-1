@@ -76,3 +76,4 @@ comments: yes
 - [厚朴](http://ce.sysu.edu.cn/hope/index.html):
 - [Lady Love IT](http://www.ladyloveit.com/about-this-site/):
 - [Biaobiaoqi的博客](http://biaobiaoqi.me/):
+- [JavaScript教程网](http://www.ijavascript.cn/):
