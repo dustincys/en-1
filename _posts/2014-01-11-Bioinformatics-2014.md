@@ -40,13 +40,24 @@ The basic Computer skills is necessary for every bioinformaticians, the list bel
 </tbody>
 </table>
 
-#### 
+#### other skills
 
 ### Molecular Biology Knowledge
+
+The basic molecular biology knowledge is very essential for learning bioinformatics because the performance of your future work is based on the fundament of it. There things you should knew after you learned molecular biology is that:
+- The whole development of molecular biology and the transition from it to bioinformatics.
+- Familiar with all the main-stream workflows of biology experiments, such as real-time PCR, RNA-seq, Chip-seq and etc.
+- Familiar with almost terms of molecular biology and distingush the small differences of each other.
 
 ### Bioinformatics
 
 #### File Format 
+
+#### Databases
+
+#### Main-stream Boinformatics Softwares
+
+#### Keep tracking the Advanced Bioinformatics Techniques 
 
 ### Others
 
@@ -63,6 +74,8 @@ The basic Computer skills is necessary for every bioinformaticians, the list bel
 ### Register Online Programming Projects
 
 ### Apply for a Lab  
+
+
 
 
 
