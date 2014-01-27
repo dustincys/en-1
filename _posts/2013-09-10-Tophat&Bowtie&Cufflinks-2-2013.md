@@ -52,6 +52,7 @@ $ /home/shenlu/temp/bowtie2-2.0.5/bowtie2-build /work/fish/shenlu/zebrafish_geno
 ```   
 #### Aligns paired-end RNA-seq reads to reference genome via Tophat   
 Run the command line of tophat to generate FPKM:   
+
 ```    
-$ tophat -p 4(or 3) /work/fish/shenlu/bowtie/zebrafish_index --library-type fr-unstranded /work/fish/shenlu/2-4_cell_1/SRR372787_1_trimmer.fastq /work/fish/shenlu/2-4_cell_1/SRR372787_2.fastq -G /work/fish/shenlu/zebrafish_genome/Danio_rerio_annotation -o zebrafish      
-```      
+$ tophat -p 4(or 3) /work/fish/shenlu/bowtie/zebrafish_index --library-type fr-unstranded /work/fish/shenlu/2-4_cell_1/SRR372787_1_trimmer.fastq /work/fish/shenlu/2-4_cell_1/SRR372787_2.fastq -G /work/fish/shenlu/zebrafish_genome/Danio_rerio_annotation -o zebrafish     
+``` 
