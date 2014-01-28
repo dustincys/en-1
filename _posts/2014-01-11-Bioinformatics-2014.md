@@ -17,7 +17,7 @@ The new year has come, I am planing to summerize the experience of learning bioi
 
 For my experience, if you want to learning bioinformatics by yourself, A high-performance computer is essential for your work every day. The most of my work at my position is to analyze data with GB or even TB size or programming some script to run it. So my working efficiency really depended on the performance of my computer. Thus, choosing a powerful computer will speed up your work processes in the future. For my choice, I bought a second-hand lenovo computer (Y470) which cost me 500 bucks from my mentor. (the snapshot is below)
 
-![](http://i.imgur.com/qfoUM5Q.jpg)
+![](http://i.imgur.com/KaiiKw2.png)
 
 - Strategy Two: Find Someone Who Could Offer HPC to YOU
 
