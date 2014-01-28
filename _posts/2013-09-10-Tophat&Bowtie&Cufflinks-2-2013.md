@@ -58,13 +58,13 @@ $ tophat -p 4(or 3) /work/fish/shenlu/bowtie/zebrafish_index --library-type fr-u
 ``` 
 ![]()
 
-> Note: /work/fish/shenlu/bowtie/zebrafish_index is dumpped by the command: bowtie2-build (there
+> Note: `/work/fish/shenlu/bowtie/zebrafish_index` is dumpped by the command: `bowtie2-build` (there
 are six files, but we just use the name before the ".")   
 
 
 ### Use Cufflinks to calculate transcript abundances (FPKM) in RNA-seq samples
 
-Using the outcomes of Tophat, I continued running Cufflinks to calculate out the FPKM of the gene and isoforms  
+Using the outcomes of **Tophat**, I continued running **Cufflinks** to calculate out the **FPKM** of the gene and isoforms  
 
 ![]()
 
@@ -72,7 +72,7 @@ Using the outcomes of Tophat, I continued running Cufflinks to calculate out the
 $ /home/shenlu/temp/cufflinks-2.1.1.Linux_x86_64/cufflinks -G /work/fish/shenlu/zebrafish_genome/Danio_rerio_annotation /work/fish/shenlu/2-4_cell_1/tophat_out/accepted_hits.bam   
 ```   
 
-> Note: “ Danio_rerio_annotation ” is the .gtf format file after unzipped out.
+> Note: `Danio_rerio_annotation` is the `.gtf` format file after unzipped out.
 
 After runing this command, I generated two files with ```.fpkm_tracking``` at the end. As same as runing Tophat to estimate **FPKM** of ```SRR372787_1_trimmer.fastq``` and ```SRR372787_2.fastq```, I run **Tophat** to estimate ```FPKM``` of another replication: *2-4_cell_2* (```SRR372788_1.fastq``` and ```SRR372788_1.fastq```)
 
