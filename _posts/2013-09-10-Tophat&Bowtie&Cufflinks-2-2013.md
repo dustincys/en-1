@@ -74,6 +74,23 @@ $ /home/shenlu/temp/cufflinks-2.1.1.Linux_x86_64/cufflinks -G /work/fish/shenlu/
 
 > Note: `Danio_rerio_annotation` is the `.gtf` format file after unzipped out.
 
-After runing this command, I generated two files with ```.fpkm_tracking``` at the end. As same as runing Tophat to estimate **FPKM** of ```SRR372787_1_trimmer.fastq``` and ```SRR372787_2.fastq```, I run **Tophat** to estimate ```FPKM``` of another replication: *2-4_cell_2* (```SRR372788_1.fastq``` and ```SRR372788_1.fastq```)
+After runing this command, I generated two files with ```.fpkm_tracking``` at the end. As same as runing Tophat to estimate **FPKM** of ```SRR372787_1_trimmer.fastq``` and ```SRR372787_2.fastq```, I run **Tophat** to estimate **FPKM** of another replication: *2-4_cell_2* (```SRR372788_1.fastq``` and ```SRR372788_1.fastq```)
 
+**Tophat** should set up various arguments, if you hesitated what arguments you should choose, we could find some clues about these arguments for the paper. For example, from the first paragraph in methods below, we could see the RNA-seq data is from ```strand-specific``` libraries.
 
+![]()
+
+And Tophat has provided three library types with us to choose a proper arguments. In terms of the paper, we should select ```fr-unstranded``` as the argument.   
+
+![]()
+
+### Using R to calculate the correlation between the replications   
+
+Before runing the **Tophat**, first we should confirm if there is any strong correlation among two or more replications. In other words, whether the replications among RNA-seq samples are reliable to use.
+
+Use the ```awk``` to tackle the both ```*fpkm_tracking``` files and extract the column with **FPKM** information
+
+```   
+$ awk < isoforms_2-4_cell_2.fpkm_tracking -F'[\t]' '{print $10 > "2-4_cell_isoform_example2.txt"}'   
+```  
+  
