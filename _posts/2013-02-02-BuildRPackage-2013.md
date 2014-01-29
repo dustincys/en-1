@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build R Package with Rstudio
+title: Developing R Packages with RStudio
 categories: [reference, r]
 tags: [Ubuntu, r, Rstudio]
 ---
