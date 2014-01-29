@@ -41,6 +41,7 @@ comments: yes
 - [Code School](https://www.codeschool.com/):
 
 ## Bioinformatics
+- [List of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools):
 - [Bioinformatics Software And Tools](http://bioinformaticssoftwareandtools.co.in/index.html):
 - [Yixf's blog](http://yixf.name/):
 - [LET'S DO BIOINFORMATICS](http://bioinformatics.risha.me/):
@@ -79,3 +80,4 @@ comments: yes
 - [JavaScript教程网](http://www.ijavascript.cn/):
 - [ideone](http://ideone.com/)
 - [tutorialspoint](http://www.tutorialspoint.com/python/python_database_access.htm):
+
