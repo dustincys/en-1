@@ -80,4 +80,5 @@ comments: yes
 - [JavaScript教程网](http://www.ijavascript.cn/):
 - [ideone](http://ideone.com/)
 - [tutorialspoint](http://www.tutorialspoint.com/python/python_database_access.htm):
+- [TOM SCHENK JR.](http://tomschenkjr.net/using-sublime-text-2-for-r/):
 
