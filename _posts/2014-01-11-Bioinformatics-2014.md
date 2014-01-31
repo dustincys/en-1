@@ -48,12 +48,17 @@ The basic molecular biology knowledge is very essential for learning bioinformat
 - The whole development of molecular biology and the transition from it to bioinformatics.
 - Familiar with all the main-stream workflows of biology experiments, such as real-time PCR, RNA-seq, Chip-seq and etc.
 - Familiar with almost terms of molecular biology and distingush the small differences of each other.
+What is the status of molecular biology for bioinformatics? Definitly, it is very essiential for us. Afterall, all the issues we met and solved are biological problems. Even now you could use every tools and skills to solve bioinformatics problems, but if you have no ideas where the problems are and just recieve the job from your supervisor as well as following the instruction he or she gave to you, you are just treated as a tool, not a researcher. Only you have enough molecular biology background, you could have chance to participate the core lab work and make a real team work, like being more easy to communicate with your lab members who is doing wet lab.    
 
 ### Bioinformatics
+
+
 
 #### File Format 
 
 #### Databases
+
+
 
 #### Main-stream Boinformatics Softwares
 
