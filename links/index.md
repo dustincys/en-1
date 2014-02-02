@@ -42,7 +42,7 @@ comments: yes
 
 ## Bioinformatics
 - [List of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools):
-- [Bioinformatics Software And Tools](http://bioinformaticssoftwareandtools.co.in/index.html):
+- [Bioinformatics Software And Tools](http://bioinformaticssoftwareandtools.co.in/):
 - [Yixf's blog](http://yixf.name/):
 - [LET'S DO BIOINFORMATICS](http://bioinformatics.risha.me/):
 - [Plankton Images](http://planktonimages.wordpress.com/contact/):
