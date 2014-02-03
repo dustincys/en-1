@@ -22,7 +22,7 @@ comments: yes
 - [R Graph Gallery](http://rgm3.lab.nig.ac.jp/RGM/):
 - [Data Mining With R](http://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/):
 - [数据科学与R语言](http://xccds1977.blogspot.com/):
-
+- [会点HTML5的R 程序员](http://r-ke.info/2012/12/04/r-html5-interactive-graphs.html):
 ## [Perl](http://www.perl.org/)
 
 - [cpan](http://www.cpan.org/modules/INSTALL.html): Comprehensive Perl Archive Network
