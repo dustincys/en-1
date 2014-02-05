@@ -89,4 +89,4 @@ comments: yes
 - [破船之家](http://beyondvincent.com/blog/2013/08/03/108-creating-a-github-blog-using-octopress/):
 - [learning center](https://learn.andrewmunsell.com/):
 - [In the Attic](http://in-the-attic.com/):
-- 
+- [雁起平沙的网络日志](http://yanping.me/cn/):
