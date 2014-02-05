@@ -82,3 +82,11 @@ comments: yes
 - [tutorialspoint](http://www.tutorialspoint.com/python/python_database_access.htm):
 - [TOM SCHENK JR.](http://tomschenkjr.net/using-sublime-text-2-for-r/):
 - [阳志平的个人网站](http://www.yangzhiping.com/):
+- [研究研究](http://www.yanjiuyanjiu.com/):
+- [I'm Allen](http://www.imallen.com/blog/2013/10/16/deploying-octopress-to-qiniu.html):
+- [外刊IT评论](http://www.aqee.net/why-every-programmer-should-learn-python-or-ruby/):
+- [大眼夹的鸟巢](http://blog.dayanjia.com/):
+- [破船之家](http://beyondvincent.com/blog/2013/08/03/108-creating-a-github-blog-using-octopress/):
+- [learning center](https://learn.andrewmunsell.com/):
+- [In the Attic](http://in-the-attic.com/):
+- 
