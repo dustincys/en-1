@@ -59,10 +59,13 @@ comments: yes
 - [云生物](http://yunbio.com/): The website that anwsers the questions about bioinformatics & biocompute.
 - [UCR Institute of Intergrate Genome Biology](http://manuals.bioinformatics.ucr.edu/home):
 - [VCRU Bioinformatics](http://www.vcru.wisc.edu/simonlab/bioinformatics/programs/):
+- [丁丁博客](http://www.dingding.biz/about):
+- [葡萄皮的个人博客](http://blog.sciencenet.cn/blog-565112-510336.html):
 
 ## Others
 - [Coursera](https://www.coursera.org/):provide free online courses all over the world.
 - [GoDaddy](http://www.godaddy.com/):
+- [Computational Molecular Biology](http://biochem218.stanford.edu/):
 - [MOOC](http://mooc.guokr.com/):
 - [鲁塔弗的博客](http://lutaf.com/155.htm):
 - [LaTeX 科技排版](http://www.math.ecnu.edu.cn/~latex/):
