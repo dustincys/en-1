@@ -4,6 +4,8 @@ English blog of SHEN LU:
 
 ### The journal lists:
 ### 2014
+
+- 2014-02-14 Optimize Your C/C++ Projects with Valgrind
 - 2014-02-02 Build LAMP(Linux+Apache+MySQL+PHP)on Your Own PC  (**)
 - 2014-01-16 Add Doudan Reading lists at Your Blog  (**)
 - 2014-01-11 Learning Bioinformatics by Yourself (Personal Experience)  (*)   
