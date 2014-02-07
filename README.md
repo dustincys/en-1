@@ -27,7 +27,9 @@ English blog of SHEN LU:
 - 2013-06-11 The Scientific Drawing with R  (*)
 - 2013-05-30 The Fast Download with FileZilla (Ubuntu)
 - 2013-05-19 Pre-processing And Quality Control of the Raw NGS Data I:Convert SRA Format to FASTQ Format   
-- 2013-04-15 The Study Strategies of Differnet Programming Languages 
+- 2013-04-15 The Study Strategies of Differnet Programming Languages (**)  
+http://stackoverflow.com/questions/3128961/what-is-the-python-equivalent-of-perls-dbi  
+http://stackoverflow.com/questions/13327771/perl-vs-python-log-processing-performance  
 - 2013-04-10 The Whole Framework of A Website  (**)
 - 2013-04-04 Some Special Applications with Perl  (**)
 - 2013-04-01 The Summary of Regular Expression with Perl  (**)
