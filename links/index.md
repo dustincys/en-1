@@ -109,4 +109,4 @@ comments: yes
 - [Chu Yanshuo](http://yanshuo.name/):
 - [{lambda}I code it](http://icodeit.org/):
 - [灵犀志趣](http://www.lingcc.com/):
-- []():
+- [Encycolorpedia](http://encycolorpedia.com/):
