@@ -107,4 +107,6 @@ comments: yes
 - [codepiano /* 隐匿于黑夜中的星 */](http://blog.codepiano.com/posts.html):
 - [azalea says](http://azaleasays.com/tag/#programming):
 - [Chu Yanshuo](http://yanshuo.name/):
+- [{lambda}I code it](http://icodeit.org/):
+- [灵犀志趣](http://www.lingcc.com/):
 - []():
