@@ -96,3 +96,15 @@ comments: yes
 - [To be a PUA](http://impua.info/):   
 ## Web Tech
 - [Justin's Tech Blog](http://www.cnblogs.com/justinw/archive/2012/03/16/doubanapi.html):
+- [Steven's Blog](http://www.stevenlordiam.com/blog/archives/):
+- [shape](http://unitedshapes.com/):
+- [阿泉博客](http://aquan.me/):
+- [Havee's Space](http://havee.me/):
+- [陶晓磊](http://taoxiaolei.cn/):
+- [pengx17 进击的xp!](http://pengx17.me/):
+- [傅唯一的日志](http://www.fuweiyi.com/):
+- [cnmahj /* 默默前行 */](http://cnmahj.toolib.net/):
+- [codepiano /* 隐匿于黑夜中的星 */](http://blog.codepiano.com/posts.html):
+- [azalea says](http://azaleasays.com/tag/#programming):
+- [Chu Yanshuo](http://yanshuo.name/):
+- []():
