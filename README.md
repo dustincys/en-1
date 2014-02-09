@@ -3,7 +3,7 @@ en
 English blog of SHEN LU: 
 
 ### The Journals list:
-### 2014
+### 2014  
 
 - 2014-03-11 Binding or Transfer the Domain Name of Your Blog (Jekyll) (**)
 - 2014-03-07 Add Some Basic Applications on Your Blog (Jekyll) (**)
@@ -13,7 +13,10 @@ English blog of SHEN LU:
 - 2014-01-16 Add Doudan Reading lists at Your Blog  (**)
 - 2014-01-11 Learning Bioinformatics by Yourself (Personal Experience)  (*)   
  
-### 2013
+### 2013  
+
+- 2013-10-31 Show NGS Data on Gbrowse (**)
+- 2013-10-23 Build Gbrowse on Your Own PC (**)   
 - 2013-10-11 Bioinformatics:Introduction and Methods  
 - 2013-10-01 Identify the Useful Information from Scientific Diagrams (Statistics)  (**)
 - 2013-09-30 The R Programming with Tricks  (*)
