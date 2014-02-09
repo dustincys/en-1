@@ -110,3 +110,6 @@ comments: yes
 - [{lambda}I code it](http://icodeit.org/):
 - [灵犀志趣](http://www.lingcc.com/):
 - [Encycolorpedia](http://encycolorpedia.com/):
+- [Liberize's blog](http://liberize.me/):
+- [Vern's Blog](http://du1abadd.org/):
+- [cinowu](https://github.com/cinowu/gitskills/blob/master/jekyll-use.md):
