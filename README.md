@@ -5,6 +5,9 @@ English blog of SHEN LU:
 ### The Journals list:
 ### 2014
 
+- 2014-03-11 Binding or Transfer the Domain Name of Your Blog (Jekyll) (**)
+- 2014-03-07 Add Some Basic Applications on Your Blog (Jekyll) (**)
+- 2014-03-02 The Common Issues of C/C++ Programming (**)
 - 2014-02-14 Optimize Your C/C++ Projects with Valgrind  (**)
 - 2014-02-02 Build LAMP(Linux+Apache+MySQL+PHP)on Your Own PC  (**)
 - 2014-01-16 Add Doudan Reading lists at Your Blog  (**)
