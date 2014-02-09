@@ -114,3 +114,5 @@ comments: yes
 - [Vern's Blog](http://du1abadd.org/):
 - [cinowu](https://github.com/cinowu/gitskills/blob/master/jekyll-use.md):
 - [轩枫阁](http://www.xuanfengge.com/recently-one-of-the-most-popular-open-source-projects-on-github-programming-languages-and-the-fork-up.html):
+- [颜海镜](http://yanhaijing.com/javascript/2013/12/11/%E7%BB%99JavaScript%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%8424%E6%9D%A1%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/):
+- []():
