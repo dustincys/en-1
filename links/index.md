@@ -39,6 +39,7 @@ comments: yes
 - [ROSALIND](http://rosalind.info/problems/locations/):
 - [SWIG](http://www.swig.org/):
 - [Code School](https://www.codeschool.com/):
+- [编程中国](http://www.bccn.net/Article/kfyy/cyy/jc/):
 
 ## Bioinformatics
 - [List of RNA-Seq bioinformatics tools](http://en.wikipedia.org/wiki/List_of_RNA-Seq_bioinformatics_tools):
