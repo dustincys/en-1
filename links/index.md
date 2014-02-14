@@ -66,6 +66,7 @@ comments: yes
 ## Others
 - [Coursera](https://www.coursera.org/):provide free online courses all over the world.
 - [GoDaddy](http://www.godaddy.com/):
+- [lynda.com](http://www.lynda.com/)
 - [Computational Molecular Biology](http://biochem218.stanford.edu/):
 - [MOOC](http://mooc.guokr.com/):
 - [鲁塔弗的博客](http://lutaf.com/155.htm):
