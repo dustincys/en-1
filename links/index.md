@@ -120,3 +120,5 @@ comments: yes
 - [812lcl的博客](http://812lcl.com/blog/2013/10/25/octopressbo-ke-da-jian-ji-mu-lu-jie-gou/):
 - [C++ Reference](http://www.cplusplus.com/):
 - [D3.js](http://d3js.org/):
+- [Dingding Ye](http://yedingding.com/2013/04/22/rails-for-beginners.html):
+- []():
