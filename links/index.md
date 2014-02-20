@@ -124,3 +124,4 @@ comments: yes
 - [思考的轨迹](http://shanewfx.github.io/blog/2012/08/13/improve-blog-theme/):
 - [为Octopress修改主题](http://shanewfx.github.io/blog/2012/08/13/improve-blog-theme/)
 - [折腾屋](http://os.yefengs.com/javascript-dynamic-background.html):
+- [前端观察](http://os.yefengs.com/javascript-dynamic-background.html)
