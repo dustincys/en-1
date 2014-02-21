@@ -5,19 +5,19 @@ English blog of SHEN LU:
 ### The Journals list:
 ### 2014  
 
-- 2014-03-11 Binding or Transfer the Domain Name of Your Blog (Jekyll) (**)
-- 2014-03-07 Add Some Basic Applications on Your Blog (Jekyll) (**)
-- 2014-03-02 The Common Issues of C/C++ Programming (**)
-- 2014-02-14 Optimize Your C/C++ Projects with Valgrind  (**)
-- 2014-02-02 Build LAMP(Linux+Apache+MySQL+PHP)on Your Own PC  (**)
-- 2014-01-16 Add Doudan Reading lists at Your Blog  (**)
+- 2014-03-11 Binding or Transfer the Domain Name of Your Blog (Jekyll) (**d)
+- 2014-03-07 Add Some Basic Applications on Your Blog (Jekyll) (**d)
+- 2014-03-02 The Common Issues of C/C++ Programming (**d)
+- 2014-02-14 Optimize Your C/C++ Projects with Valgrind  (**d)
+- 2014-02-02 Build LAMP(Linux+Apache+MySQL+PHP)on Your Own PC  (**d)
+- 2014-01-16 Add Doudan Reading lists at Your Blog  (**d)
 - 2014-01-11 Learning Bioinformatics by Yourself (Personal Experience)  (*)   
  
 ### 2013  
 
 - 2013-10-31 Show NGS Data on Gbrowse (**)
 - 2013-10-23 Build Gbrowse on Your Own PC (**)   
-- 2013-10-11 Bioinformatics:Introduction and Methods  
+- 2013-10-11 Bioinformatics:Introduction and Methods  (d)
 - 2013-10-01 Identify the Useful Information from Scientific Diagrams (Statistics)  (**)
 - 2013-09-30 The R Programming with Tricks  (*)
 - 2013-09-17 The Summary of Bioinformatics Databases  (**)
@@ -38,13 +38,13 @@ English blog of SHEN LU:
 - 2013-04-15 The Study Strategies of Differnet Programming Languages (**)  
 http://stackoverflow.com/questions/3128961/what-is-the-python-equivalent-of-perls-dbi  
 http://stackoverflow.com/questions/13327771/perl-vs-python-log-processing-performance  
-- 2013-04-10 The Whole Framework of A Website  (**)
+- 2013-04-10 The Whole Framework of A Website  (**d)
 - 2013-04-04 Some Special Applications with Perl  (**)
 - 2013-04-01 The Summary of Regular Expression with Perl  (**)
-- 2013-03-12 Development and Application of Front-end Web in Jekyll  (**)
-- 2013-03-09 Build A Static Blog with Jekyll  (**)
-- 2013-02-20 Easy Web Applications in R:shiny  (**)
+- 2013-03-12 Development and Application of Front-end Web in Jekyll  (**d)
+- 2013-03-09 Build A Static Blog with Jekyll  (**d)
+- 2013-02-20 Easy Web Applications in R:shiny  (**d)
 - 2013-02-02 Developing R Packages with RStudio  (**)
 - 2013-01-30 Several Wouderful IDEs for Ubuntu  (*)
 - 2013-01-11 The Common Linux Command Lines at Practice (Bioinformatics)  (*)
-- 2013-01-05 Beautify Your Terminal (Ubuntu)  (*)
+- 2013-01-05 Beautify Your Terminal (Ubuntu)  (*d)
