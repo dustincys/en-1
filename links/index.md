@@ -126,3 +126,4 @@ comments: yes
 - [折腾屋](http://os.yefengs.com/javascript-dynamic-background.html):
 - [前端观察](http://os.yefengs.com/javascript-dynamic-background.html):
 - [RunJS](http://runjs.cn/):
+- [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html):
