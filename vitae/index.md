@@ -74,12 +74,12 @@ Next Generation Sequencing & RNA-seq Data Analysis
 ### Computer Skills
 
 - Operation Systems: WinXP&7, Linux(Ubuntu) and Unix(Mac) 
-- Programming Languages: Perl, Java, R, C/C++, Python 
+- Programming Languages: Perl, Java, R, C/C++, Python  
 ```
 (from proficiency to familiar)
 ```
 - SQL languages: MySQL, SQLite3
-- Others: Micosoft Office, Bioinformatics Software (TopHat, Bowtie, Cufflinks, etc.), web language (html, css, javascript,etc.), git&github
+- Others: Micosoft Office, Bioinformatics Software (TopHat, Bowtie, Cufflinks, etc.), web language (html5, css, javascript(d3), JSON, etc.), git&github, JBrowse
 
 ## Self Assessment
 
