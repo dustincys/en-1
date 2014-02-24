@@ -129,3 +129,4 @@ comments: yes
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345/index.html):
 - [Javascript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/):
 - [Beyond the Void](https://www.byvoid.com/):
+- [Wuyuan's Blog](http://wuyuans.com/2012/06/about-the-length-of-fread/):
