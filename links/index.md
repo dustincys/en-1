@@ -131,3 +131,5 @@ comments: yes
 - [Beyond the Void](https://www.byvoid.com/):
 - [Wuyuan's Blog](http://wuyuans.com/2012/06/about-the-length-of-fread/):
 - [Puriney](https://github.com/Puriney?tab=repositories):
+- [LUGIR](http://lugir.com/node/366):
+- [心内求法](http://thinkinside.tk/2013/05/27/jekyll_mysite.html):
