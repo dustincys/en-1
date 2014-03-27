@@ -68,7 +68,7 @@ Next Generation Sequencing & RNA-seq Data Analysis
 
 ### Work Experience
 
-1. Fall Semester 2012, Yuxi Zhang's lab, Qingdao Agricultural University (mentor: [Yuxi Zhang]())
+1. Fall Semester 2012, Yuxi Zhang's lab, Qingdao Agricultural University (mentor: [Yuxi Zhang](http://smkxy.qau.edu.cn/showart.asp?cat_id=117&art_id=1251))
 2. Summer 2013, Schnedier's lab, Iowa State University (sponsor: [Schnedier](http://www.gdcb.iastate.edu/News/news_item_sschneidercarver.shtml) and mentor: [Hsien-Chao Chou](http://www.bcb.iastate.edu/students/studentpics.html#chou_h))
 
 ### Computer Skills

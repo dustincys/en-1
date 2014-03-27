@@ -62,6 +62,7 @@ comments: yes
 - [VCRU Bioinformatics](http://www.vcru.wisc.edu/simonlab/bioinformatics/programs/):
 - [丁丁博客](http://www.dingding.biz/about):
 - [葡萄皮的个人博客](http://blog.sciencenet.cn/blog-565112-510336.html):
+- [BioStar](http://www.biostars.org/):
 
 ## Others
 - [Coursera](https://www.coursera.org/):provide free online courses all over the world.
@@ -133,3 +134,6 @@ comments: yes
 - [Puriney](https://github.com/Puriney?tab=repositories):
 - [LUGIR](http://lugir.com/node/366):
 - [心内求法](http://thinkinside.tk/2013/05/27/jekyll_mysite.html):
+- [BeiYuu](http://beiyuu.com/github-pages/):
+- [天镶的博客](http://blog.segmentfault.com/skyinlayer/1190000000406019):
+- [linux&Perl&R](http://linux-learning.lofter.com/)
